@@ -2,7 +2,7 @@
 Contributors: RTM Communications
 Requires at least: 2.7
 Tested up to: 3.3
-Stable tag: 0.8.0
+Stable tag: 0.9.1
 
 Embed a beautiful Flash object for eBay auction items using the simple [ebayflash] shortcode. Voila: a dynamic flash item updated in real-time.
 
@@ -32,6 +32,10 @@ Of course not! The flash item will indicate that the item ended as well as the f
 
 
 == Changelog ==
+
+= 0.9.1 =
+
+* Bug fixes in directory structure and Flash code.
 
 = 0.8.0 =
 * Initial public release
