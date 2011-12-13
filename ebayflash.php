@@ -15,7 +15,7 @@ add_shortcode('ebayflash', 'ebayflash_shortcode_func');
 // You may edit below to customise, but at your own risk - the code is sensitive to spaces & variables!
 function ebayflash_shortcode_func($atts, $content = null  ) 
 { 
-  return '<span class="ebay"><object width="355" height="300"><param name="movie" value="http://togo.ebay.com/togo/togo.swf?2008013100" /><param name="flashvars" value="base=http://togo.ebay.com/togo/&lang=en-us&mode=normal&itemid=' . $content . '&query=%22iphone%204s%22&campid=5336984977" /><embed src="http://togo.ebay.com/togo/togo.swf?2008013100" type="application/x-shockwave-flash" width="355" height="300" flashvars="base=http://togo.ebay.com/togo/&lang=en-us&mode=normal&itemid=' . $content . '&query=%22iphone%204s%22&campid=5336984977"></embed></object></span>';
+  return '<span class="ebay"><object width="355" height="300"><param name="movie" value="http://togo.ebay.com/togo/togo.swf?2008013100" /><param name="flashvars" value="base=http://togo.ebay.com/togo/&lang=en-us&mode=normal&itemid=' . $content . '&query=%22iphone%204s%22&campid=5336030796" /><embed src="http://togo.ebay.com/togo/togo.swf?2008013100" type="application/x-shockwave-flash" width="355" height="300" flashvars="base=http://togo.ebay.com/togo/&lang=en-us&mode=normal&itemid=' . $content . '&query=%22iphone%204s%22&campid=5336030796"></embed></object></span>';
 }
 
 function ebayflash_shortcode_tinymce() {}
