@@ -8,7 +8,7 @@ Embed a beautiful Flash object for eBay auction items using the simple [ebayflas
 
 == Description ==
 
-Do you write about eBay auctions? Instead of using a simple, boring link to an eBay auction, embed this beautiful Flash widget right inside your post or page. It will show complete details about the auction, including photos, number of bids, current price, high bidder, number of views and much more. all without sending your readers away from your site. It.s a great way to keep readers on your site, while given them all the information they need. It's dynamically update in real-time.
+Do you write about eBay auctions? Instead of using a simple, boring link to an eBay auction, embed this beautiful Flash widget right inside your post or page. It will show complete details about the auction, including photos, number of bids, current price, high bidder, number of views and much more. all without sending your readers away from your site. It's a great way to keep readers on your site, while given them all the information they need. It's dynamically update in real-time.
 
 See it in action at www.iphone-sale.com
 
@@ -26,12 +26,13 @@ See it in action at www.iphone-sale.com
 
 Not yet, but we.re working on it for future versions!
 
-= What happens when the auction item ends . does the flash break? =
+= What happens when the auction item ends - does the flash break? =
 
 Of course not! The flash item will indicate that the item ended as well as the final price and number of bids, if any. It will also show related results.
 
 
 == Changelog ==
+
 
 = 0.9.1 =
 
