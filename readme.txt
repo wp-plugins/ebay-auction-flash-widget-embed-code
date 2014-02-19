@@ -1,16 +1,16 @@
 === Plugin Name ===
 Contributors: RTM Communications
 Requires at least: 2.7
-Tested up to: 3.3
-Stable tag: 0.9.1
+Tested up to: 3.8.1
+Stable tag: 0.9.6
 
-Embed a beautiful Flash object for eBay auction items using the simple [ebayflash] shortcode. Voila: a dynamic flash item updated in real-time.
+Embed a beautiful Flash object for eBay auction items using the simple [ebayflash] shortcode plugin. Voila: a dynamic flash item updated in real-time.
 
 == Description ==
 
 Do you write about eBay auctions? Instead of using a simple, boring link to an eBay auction, embed this beautiful Flash widget right inside your post or page. It will show complete details about the auction, including photos, number of bids, current price, high bidder, number of views and much more. all without sending your readers away from your site. It's a great way to keep readers on your site, while given them all the information they need. It's dynamically update in real-time.
 
-See it in action at www.iphone-sale.com
+See it in action at www.oxycodone.us
 
 
 == Installation ==
@@ -18,7 +18,7 @@ See it in action at www.iphone-sale.com
 
 1. Upload the ebayflash directory, including `ebayflash.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. When editing your post or page, use the [ebayflash]123456789[/ebay] where the eBay auction item number is in-between the code, and you'll get your eBay flash item in your post after saving. It may not sure in the editor window, but it will in a preview, or once published.
+3. When editing your post or page, use the [ebayflash]123456789[/ebayflash] where the eBay auction item number is in-between the code, and you'll get your eBay flash item in your post after saving. It may not sure in the editor window, but it will in a preview, or once published.
 
 == Frequently Asked Questions ==
 
@@ -32,6 +32,11 @@ Of course not! The flash item will indicate that the item ended as well as the f
 
 
 == Changelog ==
+
+= 0.9.6 =
+
+* Tested to all WordPress 3.x versions up to 3.8.1
+* Corrected documentation - notably that the tag closes with [/ebayflash] and not [/ebay]
 
 
 = 0.9.1 =

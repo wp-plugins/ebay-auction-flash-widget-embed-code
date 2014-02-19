@@ -1,11 +1,11 @@
 <?php
   /*
 Plugin Name: eBay Auction Flash Shortcode
-Plugin URI: http://www.rtm.net
+Plugin URI: http://rtm.net
 Description: Embed a beautiful Flash eBay auction Widget directly in your posts
-Version: 0.9.1
+Version: 0.9.6
 Author: RTM Communications
-Author URI: http://www.rtm.net/
+Author URI: http://rtm.net/
   */
   /* Shortcode is here */
   // register eBay Flash shortcode
